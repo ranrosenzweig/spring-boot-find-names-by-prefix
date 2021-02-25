@@ -27,7 +27,7 @@ This is a SpringBoot application that provides list of names by given prefix str
         ]
 > **H2 console** http://localhost:8081/h2
 >
-![Alt text](images/H2 Login.png?raw=true "H2 console login details")
+![Alt text](images/H2%20Login.png?raw=true "H2 console login details")
 
 #### Input validation:
 The {prefix} must contain al least 2 chars and at most 10 chars
